@@ -1,0 +1,4 @@
+1. Run docker setup
+2. DOCKER settings
+3. Resorces
+4. Download WSL2 file for window to run docker on linux kernal

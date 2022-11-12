@@ -1,0 +1,3 @@
+Microsoft Hyper-V Manager is an administrative tool to create, 
+change and delete virtual machines (VMs). An administrator can manage a local Hyper-V 
+host and a limited number of remote hosts from a single Hyper-V Manager tool

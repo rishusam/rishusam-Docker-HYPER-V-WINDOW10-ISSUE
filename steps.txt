@@ -1,0 +1,11 @@
+1. Install docker
+2. After install their are sevral issue one of the HYPER-V manager active
+3. Run Window button search HYPER-V 
+4. Enable it
+
+if not find HYPER-V 
+
+1. Run cmd promot
+2. Run repository that is in code file
+3. Then run y for restart (y/s) 
+4. Now its complete
